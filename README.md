@@ -2,13 +2,13 @@
 
 The code and jupyternotebooks to go along with the Medium Spiny Neuron Diversity in the Primate Nucleus Accumbens publication
 
-##Requirements 
+## Requirements 
 
-*R>3.6.0
+* R>3.6.0
 
-*python>3.5.1
+* python>3.5.1
 
-*STAR>2.7.2b
+* STAR>2.7.2b
 
 The rest of the requirements can be installed by running:
 
