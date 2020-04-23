@@ -5,7 +5,9 @@ The code and jupyternotebooks to go along with the Medium Spiny Neuron Diversity
 ##Requirements 
 
 *R>3.6.0
+
 *python>3.5.1
+
 *STAR>2.7.2b
 
 The rest of the requirements can be installed by running:
@@ -13,9 +15,10 @@ The rest of the requirements can be installed by running:
 1. pip install pip_requirements.txt
 2. Rscript installation.R
 
-Alignment of the rhesus macaque straitum nuclei data was performed using [STAR version 2.7.2b](https://github.com/alexdobin/STAR) on the rhemac10 genome 
-Scripts for the alignmet are located in the alignment scripts folder
-The analysis was composed of the following steps and can be viewed in the analysis jupyer notebooks
+Alignment of the rhesus macaque straitum nuclei data was performed using [STAR version 2.7.2b](https://github.com/alexdobin/STAR) on the rhemac10 genome.
+Scripts for the alignmet are located in the alignment scripts folder.
+
+The analysis was composed of the following steps and can be viewed in the analysis jupyer notebooks.
 
 | Computational Step   | Software Packages  | Associated Notebook  |
 | ------------- |:-------------:| -----:|
