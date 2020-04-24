@@ -30,7 +30,20 @@ The analysis was composed of the following steps and can be viewed in the analys
 | Poor Quality Nuclie Removal | [Scanpy](https://scanpy.readthedocs.io/en/stable/)     |   [preclustering_and_qc.ipynb](https://github.com/pfenninglab/nhp_snrna_striatum_analysis/blob/master/analysis/preclustering_and_qc.ipynb) |
 | Preclustering | [Scanpy](https://scanpy.readthedocs.io/en/stable/)    |    [preclustering_and_qc.ipynb](https://github.com/pfenninglab/nhp_snrna_striatum_analysis/blob/master/analysis/preclustering_and_qc.ipynb) |
 | Normalization | [Scran](https://bioconductor.org/packages/release/bioc/html/scran.html)     |    [scran_normalization.ipynb](https://github.com/pfenninglab/nhp_snrna_striatum_analysis/blob/master/analysis/scran_normalization.ipynb) |
-| Clustering and Marker analyis|  [Scanpy](https://scanpy.readthedocs.io/en/stable/)    |  [full_nuclei_analysis.ipynb](https://github.com/pfenninglab/nhp_snrna_striatum_analysis/blob/master/analysis/full_nuclei_analysis.ipynb)   |
+| Full Striatum Clustering and Marker analyis|  [Scanpy](https://scanpy.readthedocs.io/en/stable/)    |  [full_nuclei_analysis.ipynb](https://github.com/pfenninglab/nhp_snrna_striatum_analysis/blob/master/analysis/full_nuclei_analysis.ipynb)   |
+| Medium Spiny Neuron Clustering and Marker analyis|  [Scanpy](https://scanpy.readthedocs.io/en/stable/)    |  [msn_analysis.ipynb](https://github.com/pfenninglab/nhp_snrna_striatum_analysis/blob/master/analysis/msn_analysis.ipynb)   |
+
+## Statistical testing
+
+We are also providing our own code for the following statistical tests 
+
+| Statistical Test  | Purpose | Script  |
+| ------------- |:-------------:| -----:|
+|Cluster-cell type enrichment test | Computes the marker gene enrichment between a single nuclei cluster and set of cell types in a gene marker database | (cluster_profile.py)[https://github.com/pfenninglab/nhp_snrna_striatum_analysis/tree/master/src/cluster_profile.py] |
+|Cluster split test | Computes a gene-wise split test of whether a cluster split splits a gene expression distribution based on its bimodality | (bimodal_split_test.py)[https://github.com/pfenninglab/nhp_snrna_striatum_analysis/tree/master/src/bimodal_split_test.py] |
+
+
+
 
 Data will be available via SRA and GEO soon!
 
