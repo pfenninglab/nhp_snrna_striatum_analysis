@@ -39,8 +39,8 @@ We are also providing our own code for the following statistical tests
 
 | Statistical Test  | Purpose | Script  |
 | ------------- |:-------------:| -----:|
-|Cluster-cell type enrichment test | Computes the marker gene enrichment between a single nuclei cluster and set of cell types in a gene marker database | (cluster_profile.py)[https://github.com/pfenninglab/nhp_snrna_striatum_analysis/tree/master/src/cluster_profile.py] |
-|Cluster split test | Computes a gene-wise split test of whether a cluster split splits a gene expression distribution based on its bimodality | (bimodal_split_test.py)[https://github.com/pfenninglab/nhp_snrna_striatum_analysis/tree/master/src/bimodal_split_test.py] |
+|Cluster-cell type enrichment test | Computes the marker gene enrichment between a single nuclei cluster and set of cell types in a gene marker database | [cluster_profile.py](https://github.com/pfenninglab/nhp_snrna_striatum_analysis/tree/master/src/cluster_profile.py) |
+|Cluster split test | Computes a gene-wise split test of whether a cluster split splits a gene expression distribution based on its bimodality | [bimodal_split_test.py](https://github.com/pfenninglab/nhp_snrna_striatum_analysis/tree/master/src/bimodal_split_test.py) |
 
 
 
