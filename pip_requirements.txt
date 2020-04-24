@@ -1,7 +1,7 @@
 
-plotnine
+
 scanpy
 python-igraph
 leidenalg
-scanorama
 feather-format
+tableone
