@@ -1,6 +1,6 @@
 # nhp_snrna_striatum_analysis
 
-The code and jupyternotebooks to go along with the Medium Spiny Neuron Diversity in the Primate Nucleus Accumbens publication
+The code and jupyternotebooks to go along with the Medium Spiny Neuron Diversity in the Primate Nucleus Accumbens publication. This github details the analysis performed on single nucleus RNA-seq data sampled from the Rhesus macaque striatum. The resulting analysis yielded precise gene markers for call cell types in the macaque straitum and a characterization of the diversity of medium spiny neurons as well as their regional distribution in the nucleus accumbens vs the putamen anc caudate. You can follow along the analysis with the Jupyter notebooks below. The statstical test scripts contain code to run the cell type identification and cluster validation statstical testing
 
 ## Requirements 
 
