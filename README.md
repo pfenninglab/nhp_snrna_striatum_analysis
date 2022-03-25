@@ -50,7 +50,7 @@ We are also providing our own code for the following statistical tests
 
 
 
-Data will be available via SRA and GEO soon!
+Data  available via [SRA](https://www.ncbi.nlm.nih.gov/sra?term=SRP308591) and [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167920) 
 
 
 
