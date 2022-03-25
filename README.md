@@ -43,7 +43,7 @@ We are also providing our own code for the following statistical tests
 | Archetype Factorization  | Performs dirchlet simplex nest factorization on anndata objects | [archetype_utilities.py](https://github.com/pfenninglab/nhp_snrna_striatum_analysis/tree/master/src/archetype_utilities.py) |  
 | Archetype Discontinuity Test  |  Computes Regression Discontinuity statitics on the archetype axes| [split_testing.py](https://github.com/pfenninglab/nhp_snrna_striatum_analysis/tree/master/src/split_testing.py) | 
 | Compute Archetype Stability Heuristic Metrics | Computes stability metrics for k archetypes in order to select k | [select_archetypes.py](https://github.com/pfenninglab/nhp_snrna_striatum_analysis/tree/master/src/select_archetypes.py)  | 
-| Permuation Significance Testing | Performs permutation testing for p-value correction of the regression discontinuity test |[permutation_testing.py]((https://github.com/pfenninglab/nhp_snrna_striatum_analysis/tree/master/src/permutation_testing.py) |
+| Permuation Significance Testing | Performs permutation testing for p-value correction of the regression discontinuity test |[permutation_testing.py](https://github.com/pfenninglab/nhp_snrna_striatum_analysis/tree/master/src/permutation_testing.py) |
 |Dirichlet Simplex Nest | Extended from the [Dirichlet Simplex Nest Github](https://github.com/moonfolk/VLAD) | [vlad.py](https://github.com/pfenninglab/nhp_snrna_striatum_analysis/tree/master/src/vlad.py) |
 
 
